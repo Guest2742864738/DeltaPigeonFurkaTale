@@ -22,7 +22,7 @@ The game is in active development. Current chapter roadmap:
 | Chapter      | Status                          |
 |--------------|---------------------------------|
 | Chapter 1    | ✅ Complete *(Awaiting Remaster)* |
-| Chapter 2    | 🟡 Announced                    |
+| Chapter 2    | 💻 In Development               |
 | Chapters 3–7 | ⏳ Not Yet Announced            |
 
 We are releasing the game episodically. Expect new content, features, and polish based on community feedback throughout early access.
