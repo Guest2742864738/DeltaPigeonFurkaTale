@@ -47,9 +47,9 @@ Please note that core narrative, art, and design direction are managed by the or
 ---
 
 ## 📫 Connect & Follow Development
-- **[Play the Demo / Wishlist](#)** – *(Link to Itch.io, Steam, etc.)*
-- **Follow Updates** – *(Link to Twitter/X, Devlog, etc.)*
-- **Join the Community** – *(Link to Discord, Forum, etc.)*
+- **[Play the Demo / Wishlist](https://bananasovi-lord.itch.io/delta-pigeon-furka-tale)**
+- **[Follow Updates](https://t.me/dpftoffc)**
+- **[Join the Community](https://t.me/dpftcommunty)**
 
 ---
 
