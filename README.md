@@ -1,3 +1,21 @@
+# UPDATE 1.0.0
+
+## **Dear players..**
+
+I'm glad to introduce **THE BIGGEST update of the DeltaPigeonFurkaTale**
+
+Out team added:
+  - **NOW YOUR PROGRESS SAVING IN JSON FILE(holy shit)**
+  - **MAIN MENU WITH FURRY AND FEMBOYS(holy bush)**
+  - **GAME MENU!!!!(no one asked)**
+  - and other small fixes
+    
+I hope you like it
+
+__Your Lord_Bananasov__
+
+---
+
 # DELTA-PIGEON-FURKA-TALE
 
 **A narrative-driven RPG crafted by a duo — where two souls share one body, one fate.**
